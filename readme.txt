@@ -1,6 +1,6 @@
 === Twenty Twenty-Five ===
 modificando texto
-introduciendo segunda línea
+introduciendo segunda línea y volviendo a modificar porque es muy estable este código.
 Contributors: wordpressdotorg
 Requires at least: 6.7
 Tested up to: 6.7
